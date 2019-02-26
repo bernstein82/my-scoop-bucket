@@ -1,0 +1,10 @@
+{
+	"##": "Browse NTFS Shadow Copies (aka Windows System Restore Points)",
+	"version": "0.9",
+	"url": "https://github.com/bernstein82/scoop-app-mirror/raw/master/apps/ShadowExplorer-0.9.7z",
+	"hash": "76B3AE360ABBB192A8F28455411A2326E454222870A2AA8E965221A80508B3C4",
+	"bin": "ShadowExplorerPortable.exe",
+	"shortcuts": [["ShadowExplorerPortable.exe","ShadowExplorer"]],
+	"persist": ["ShadowExplorerPortable.exe.config"],
+	"homepage": "https://www.shadowexplorer.com/"
+}

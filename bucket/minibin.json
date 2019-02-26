@@ -1,0 +1,10 @@
+{
+	"##": "RecycleBin in the Systray",
+	"version": "6.6.0",
+	"url": "https://github.com/bernstein82/scoop-app-mirror/raw/master/apps/MiniBin-6.6.0.7z",
+	"hash": "7C4AB12BA86A1F49061B49231D83F04348053F04E9B0EA3F0A400E8EB8A5C332",
+	"bin": "MiniBin.exe",
+	"shortcuts": [["MiniBin.exe","MiniBin"]],
+	"persist": ["minibin.ini","minibin-language.ini"],
+	"homepage": "https://e-sushi.net"
+}
