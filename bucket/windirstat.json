@@ -1,9 +1,9 @@
 {
 	"##": "Analyzes the space of your hard disk and displays it as a treemap",
+	"homepage": "https://windirstat.net/",
 	"version": "2.13",
 	"url": "https://github.com/bernstein82/scoop-app-mirror/raw/master/apps/WinDirStat-1.1.2.80.7z",
 	"hash": "7CFFA8A62AEEFFA5805E6E63F4A6A00E9BDD64A756FAFC545AF3302AD55FDA55",
 	"bin": "windirstat.exe",
-	"shortcuts": [["windirstat.exe","WinDirStat"]],
-	"homepage": "https://windirstat.net/"
+	"shortcuts": [["windirstat.exe","WinDirStat"]]
 }
