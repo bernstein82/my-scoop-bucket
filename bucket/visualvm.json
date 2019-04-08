@@ -1,0 +1,16 @@
+{
+    "homepage": "https://visualvm.github.io/",
+    "license": " GPLv2 + CE",
+    "version": "1.4.2",
+	"url": "https://github.com/visualvm/visualvm.src/releases/download/1.4.2/visualvm_142.zip",
+	"hash": "5D77E07FB7BF564F97A1DD9AA3CD629B3CC4B9B21DBEC45B8DFDF058B541388A",
+    "bin": "visualvm.exe",
+	"shortcuts": [["visualvm.exe","VisualVM"]],
+    "checkver": {
+		"url": "https://visualvm.github.io/download.html",
+		"re": "<b>VisualVM ([\\d.]+)</b>"
+	},
+    "autoupdate": {
+        "url": "https://github.com/visualvm/visualvm.src/releases/download/$version/visualvm_$cleanVersion.zip"
+    }
+}
